@@ -1,0 +1,2 @@
+# RaziskovalnaNaloga
+EnergijaKapljice
