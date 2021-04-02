@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">bluetoothapplication</string>
+    <string name="button1">SEND</string>
+    <string name="button2">SETTINGS</string>
+    <string name="textView1">DEVICE</string>
+    <string name="textView2">Name:</string>
+    <string name="textView3">MAC Adress:</string>
+    <string name="buttonSave">CONNECT</string>
+    <string name="drop1">DROP1 SIZE</string>
+    <string name="drop2">DROP2 SIZE</string>
+    <string name="flash_delay">FLASH DELAY</string>
+    <string name="drop2_delay">DROP2 DELAY</string>
+    <string name="value1">250</string>
+    <string name="value2">60</string>
+    <string name="value3">10</string>
+    <string name="value4">10</string>
+</resources>
